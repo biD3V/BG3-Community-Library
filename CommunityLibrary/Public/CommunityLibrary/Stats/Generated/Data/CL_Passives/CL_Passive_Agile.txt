@@ -1,0 +1,6 @@
+new entry "CL_Passive_Agile"
+type "PassiveData"
+data "Icon" "PassiveFeature_Generic_Tactical"
+data "DisplayName" "h2f72bb2fga086g454fgb970geca0ab380b7d"
+data "Description" "h24586459g705dg4535g8da2g65087b680cc3"
+data "Boots" "ProficiencyBonus(Skill,Acrobatics)"

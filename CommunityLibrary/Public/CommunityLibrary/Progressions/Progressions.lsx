@@ -90,6 +90,18 @@
           <attribute id="TableUUID" type="guid" value="80b2552d-a325-424a-9581-c45d22c2a4d0"/>
           <attribute id="UUID" type="guid" value="526226b2-c9b2-4428-95a4-134294e1d533"/>
         </node>
+
+        <!-- Kitsune -->
+        <node id="Progression">
+          <attribute id="Boosts" type="LSString" value="Ability(Dexterity,1);Ability(Charisma,1)"/>
+          <attribute id="Level" type="uint8" value="1"/>
+          <attribute id="Name" type="LSString" value="CL_Kitsune"/>
+          <attribute id="PassivesAdded" type="LSString" value="Darkvision;CL_Passive_Agile"/>
+          <attribute id="ProgressionType" type="uint8" value="2"/>
+          <attribute id="Selectors" type="LSString" value="AddSpells(9d687089-7e36-4e9d-8bd3-a856fd0f8a96,,,,AlwaysPrepared)"/>
+          <attribute id="TableUUID" type="guid" value="9ec2dace-b191-4222-8c3b-64b831fe3ef9"/>
+          <attribute id="UUID" type="guid" value="c7ee9262-92ff-4ae6-957f-7c8dd465cd4e"/>
+        </node>
       </children>
     </node>
   </region>

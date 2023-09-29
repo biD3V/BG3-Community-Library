@@ -70,6 +70,11 @@
           <attribute id="Spells" type="LSString" value="CL_Target_RoaringPalms"/>
           <attribute id="UUID" type="guid" value="832e2475-eda3-49ba-aaf6-c90e0812a33d"/>
         </node>
+        <node id="SpellList">          <!-- Kitsune - bi_soy_sauce -->
+          <attribute id="Comment" type="LSString" value="CL_Kitsune SLevel 1" />
+          <attribute id="Spells" type="LSString" value="Target_DancingLights;CL_Shout_KitsuneShapeshift" />
+          <attribute id="UUID" type="guid" value="9d687089-7e36-4e9d-8bd3-a856fd0f8a96"/>
+        </node>
       </children>
     </node>
   </region>

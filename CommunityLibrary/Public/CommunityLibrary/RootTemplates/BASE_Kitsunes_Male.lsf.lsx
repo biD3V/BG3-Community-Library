@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+  <version major="4" minor="0" revision="0" build="51" />
+  <region id="Templates">
+    <node id="Templates">
+      <children>
+        <node id="GameObjects">
+          <attribute id="MapKey" type="FixedString" value="bed1202f-d85c-4d1e-8ef1-11209361ab96" />
+          <attribute id="Name" type="LSString" value="BASE_Kitsunes_Male" />
+          <attribute id="LevelName" type="FixedString" value="" />
+          <attribute id="Type" type="FixedString" value="character" />
+          <attribute id="ParentTemplateId" type="FixedString" value="acd7060a-43bd-4dc9-b050-9d9b2cf7b7df" />
+          <attribute id="VisualTemplate" type="FixedString" value="" />
+          <attribute id="Icon" type="FixedString" value="c0807a07-7e67-6f66-31d8-437c234a42e9-_(Icon_Human_Male)" />
+          <attribute id="CharacterVisualResourceID" type="FixedString" value="c0807a07-7e67-6f66-31d8-437c234a42e9" />
+          <attribute id="Race" type="guid" value="2ac0dd3f-bb9a-427d-9d8f-e0055ddcf0ac" />
+          <children>
+            <node id="GameMaster" />
+            <node id="LocomotionParams" />
+          </children>
+        </node>
+      </children>
+    </node>
+  </region>
+</save>
